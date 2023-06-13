@@ -19,4 +19,5 @@ class Utils {
     Toast.show(errorMsg, duration: Toast.lengthShort, gravity:  Toast.bottom, backgroundColor: Colors.red);
   }
 
+
 }
